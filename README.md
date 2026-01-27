@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=009688&height=220&section=header&text=Sanket%20Ghosh&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Agentic%20AI%20Lead%20%7C%20FastAPI%20Specialist%20%7C%20Predictive%20Analytics&descAlignY=60&descAlign=50" alt="Header" style="width:100%;"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=1b263b&text=SANKET%20GHOSH&fontColor=F5F5DC&animation=fadeIn&textBg=false&desc=Python%20Developer%20|%20GenAI%20and%20SaaS%20|%20Predictive%20Analysis%20|%20DevOps&descAlign=50&descAlignY=66&descSize=20" alt="Header" style="width:100%;"/>
 </p>
 
 <p align="center">
@@ -16,12 +16,11 @@
 
 ## 👨‍💻 **Executive Profile**
 
-I am a **Python-centric Software Engineer** and **GenAI Lead** focused on building autonomous agentic systems and scalable backends. Currently leading high-impact AI initiatives at **IEM GenAI COE**, I specialize in transforming raw user stories into functional, automated business ecosystems.
-
-**The "Flex" Metrics:**
-* 🎓 **Academic Excellence:** Maintaining a **9.11 CGPA** while leading multiple industry-level projects.
-* 🤖 **Agentic Pioneer:** Architecting multi-agent RAG systems that automate everything from recruitment (Hirely) to CRM.
-* 📈 **Quant Talent:** Built predictive engines for the volatile memecoin market with integrated sentiment analysis.
+I am a high-achieving B.Tech CSE student (9.11/10 CGPA) and one of the strongest undergraduate GenAI and agentic AI specialists in India.
+Currently Python Developer at HumanizeTech.AI and Student Industry Lead at IEM GenAI CoE, I build production-grade FastAPI services, multi-agent systems, LangChain + RAG + LLM pipelines, SAP automation, and multiple client-facing SaaS platforms including HR Analytics Automator, YaaS Content Generator, and Wireframe-to-Code Agent.
+My standout creations — Hirely (autonomous agentic HR automation system) and MemeMetric (real-time sentiment-powered memecoin prediction engine) — demonstrate my ability to deliver complex, scalable AI solutions end-to-end.
+Author of 3 research papers on AI-driven stock market analysis (accepted in IRTM 2024 & IEM HEALS 2024).
+Passionate about pushing the boundaries of agentic AI and rapid delivery.
 
 ---
 
@@ -33,6 +32,7 @@ I am a **Python-centric Software Engineer** and **GenAI Lead** focused on buildi
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
   <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph"/>
   <img src="https://img.shields.io/badge/Locust-7BBA59?style=for-the-badge&logo=locust&logoColor=white" alt="Locust"/>
 </p>
 
@@ -76,7 +76,7 @@ Cluster-based cryptocurrency price-prediction engine focusing on market sentimen
 ## 📈 **Engineering Activity**
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanketghosh19&theme=tokyo-night&area=true&hide_border=true" alt="Sanket's Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bytedexter&theme=tokyo-night&area=true&hide_border=true" alt="Sanket's Activity Graph"/>
 </div>
 
 ---
@@ -90,11 +90,11 @@ Cluster-based cryptocurrency price-prediction engine focusing on market sentimen
   <a href="https://linkedin.com/in/sanketghosh19">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/sanketghosh19">
+  <a href="https://github.com/bytedexter">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-  <i>"Code is cheap, but autonomous agents are the future."</i>
+  <i>"Coding is a journey, not a destination"</i>
 </p>
