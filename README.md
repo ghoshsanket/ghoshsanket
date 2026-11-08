@@ -150,19 +150,11 @@ For detailed research information and publication updates: **[ghoshsanket.github
 
 ---
 
-## 🧭 Current focus
-
-- Deliver useful, carefully scoped **AI, automation, website and backend solutions**.
-- Develop **trustworthy AI agents** that can recognize limited or conflicting evidence.
-- Improve **software engineering quality** through testing, reproducible experiments and documented handoffs.
-- Continue publishing and collaborating on **applied machine learning and dependable AI systems**.
-
----
 
 ## 📊 GitHub contributions & activity
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/13B8A6/ghoshsanket" width="96%" alt="Live GitHub contribution calendar for ghoshsanket" />
+  <img src="https://ghchart.xqsit94.in/dark:13B8A6/ghoshsanket" width="96%" alt="Live GitHub contribution calendar for ghoshsanket" />
 </p>
 
 <p align="center">
